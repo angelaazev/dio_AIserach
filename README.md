@@ -122,8 +122,13 @@ Agora vamos filtrar por localização. Insira search=locations:'Chicago' no camp
 
 ### Insights e Possibilidades:
 Recuperação de Informações: A capacidade de localizar dados relevantes rapidamente é essencial para a experiência e os resultados do usuário final.
+
 Aplicação de Processos de IA: Você pode adicionar habilidades cognitivas para aplicar processos de IA durante a indexação. O uso dos serviços de IA do Azure pode adicionar novas informações e estruturas que são úteis para pesquisa e outros cenários.
+
 Integração com Outros Serviços do Azure: A IA do Azure Search pode se integrar a outros serviços do Azure na forma de indexadores que automatizam a ingestão/recuperação de dados de fontes de dados do Azure e conjuntos de habilidades que incorporam a IA consumível por meio de serviços de IA do Azure.
+
 Aplicativos de Pesquisa Tradicionais e Conversacionais: A Pesquisa de IA do Azure é uma funcionalidade importante nos aplicativos. O mecanismo de Pesquisa de IA do Azure usa a funcionalidade de IA que ajuda os aplicativos a trabalhar de maneira mais humana e fazer associações que vão além da mera correspondência de palavras-chave.
+
 Ferramentas de Criação para Protótipos e Consultas de Índices: Além das APIs, o portal do Azure fornece suporte de administração e gerenciamento de conteúdo, com as ferramentas de criação para protótipos e consultas de seus índices.
+
 Ferramentas de Análise de Imagem e Processamento de Idioma Natural: A IA do Azure Search pode se integrar a outros serviços do Azure, como análise de imagem e processamento de idioma natural, ou a IA personalizada criada por você no Azure Machine Learning ou encapsula no Azure Functions.
